@@ -1,2 +1,2 @@
-# vedio
-This is the vedio.
+# FlyingDog
+This is a video recording of the robot
